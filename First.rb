@@ -25,6 +25,3 @@ class GFG
     obj = GFG.new
         
     # calling method using object
-    obj.geeks
-    fhjfhafhjgagjhajhvbb 
-    jkgxjhgj
