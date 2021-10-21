@@ -26,4 +26,5 @@ class GFG
         
     # calling method using object
     obj.geeks
-    
+    fhjfhafhjgagjhajhvbb 
+    jkgxjhgj
